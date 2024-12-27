@@ -1,0 +1,15 @@
+ body{
+    background-color:blanchedalmond;
+ }
+
+ header{
+    background-color:cadetblue;
+ }
+ main{
+    background-color: aliceblue;
+ }
+ footer{
+    background-color: black;
+    color: white;
+    display: flex;
+ }
